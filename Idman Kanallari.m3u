@@ -1,0 +1,53 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="match-football1" ,Матч! Футбол 2 HD
+http://streaming.tv-teleport.ru/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="football-ru" ,Телеканал Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="sila" ,Сила HD
+https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="start" ,Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="start-triumf" tvg-logo="https://moobl.ru/iptv/img/start-triumf.png" ,Старт Триумф HD
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-logo="http://epg.do.am/logo2/redbull.png" ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="eurosport2-cee" tvg-logo="http://epg.do.am/logo2/redbull.png" ,Red Bull HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-logo="https://www.pngkit.com/png/detail/500-5009900_open-tennis-channel-logo.png" ,TENNIS CHANNEL
+http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-logo="https://impactwrestling.com/wp-content/uploads/2020/09/Impact-3D-White-Logo.png" ,IMPACT! Wrestling HD
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-logo="https://uzbektv.net/uploads/posts/2022-11/medium/1669373549_futbol-tv-jonli-efir.jpg" ,Futbol TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="ufc" ,Удар HD
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://188.113.190.12/82/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://spacetv.in/stream/DIPK8H19CP8/285.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
+#EXTINF:-1 ,#EXTGRP:Спортивные
+http://stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
+#EXTINF:-1 group-title="СПОРТ" ,Turkmenistan Sport r
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" ,Turkmen Спорт
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 group-title="СПОРТ" ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="СПОРТ" ,Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
